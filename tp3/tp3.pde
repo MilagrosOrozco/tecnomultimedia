@@ -1,7 +1,6 @@
 //Milagros Orozco
 //Legajo: 93501/7
-//Video presentacion https://www.youtube.com/watch?v=Bj5YlzAhypA
-
+//Video presentacion https://www.youtube.com/watch?v=Re4lVXSqRu0&t=2s
 PImage[] imagenes = new PImage[19];
 String[] nombresImagenes = {
   "inicio.jpg",
